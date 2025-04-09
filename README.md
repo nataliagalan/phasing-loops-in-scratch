@@ -1,0 +1,1 @@
+An attempt to implement a demonstration of phasing loops in Scratch, as part of CS50's Introduction to Computer Science course: [Project 0 - Starting from Scratch](https://cs50.harvard.edu/x/2025/psets/0/scratch/).
